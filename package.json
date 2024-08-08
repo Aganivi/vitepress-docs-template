@@ -18,5 +18,11 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:Aganivi/vitepress-docs-template.git"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "beta",
+    "access": "public"
+}
+
 }
