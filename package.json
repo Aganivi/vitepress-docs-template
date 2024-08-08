@@ -1,6 +1,6 @@
 {
   "name": "vitepress-docs-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Agan",
   "description": "",
   "main": "src/index.js",
