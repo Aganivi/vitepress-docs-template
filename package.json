@@ -14,5 +14,9 @@
     "gray-matter": "^4.0.3",
     "path": "^0.12.7",
     "vitepress": "^1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Aganivi/vitepress-docs-template.git"
   }
 }
